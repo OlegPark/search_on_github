@@ -1,16 +1,16 @@
-# search_on_github
+<h1 align="center">search_on_github</h1>
 
-A new Flutter project.
+<div align="center">
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/flutter-44D0FA?logo=flutter&style=for-the-badge&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-30B7F3?logo=dart&style=for-the-badge&logoColor=white)](https://dart.dev/)
+![Static Badge](https://img.shields.io/badge/Platform-Android%20%7C%20IOS%20%7C%20Web-green)
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+     Application for counting dhikr prayers
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| ![pages](https://github.com/OlegPark/search_on_github/assets/127476229/67cc0719-0b37-45c6-b1e3-224da93056af) | ![search](https://github.com/OlegPark/search_on_github/assets/127476229/170b6cdb-2837-4a6d-8d63-91ca0510c969) |
+| :------------: | :------------: |
