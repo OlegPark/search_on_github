@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-     Application for counting dhikr prayers
+     Application for searching GitHub users
 </p>
 
 | ![pages](https://github.com/OlegPark/search_on_github/assets/127476229/67cc0719-0b37-45c6-b1e3-224da93056af) | ![search](https://github.com/OlegPark/search_on_github/assets/127476229/170b6cdb-2837-4a6d-8d63-91ca0510c969) |
