@@ -14,3 +14,7 @@
 
 | ![pages](https://github.com/OlegPark/search_on_github/assets/127476229/67cc0719-0b37-45c6-b1e3-224da93056af) | ![search](https://github.com/OlegPark/search_on_github/assets/127476229/170b6cdb-2837-4a6d-8d63-91ca0510c969) |
 | :------------: | :------------: |
+
+<p align="center">
+     Displays no more than 100 users because there is a limit on requests to the Github API.
+</p>
